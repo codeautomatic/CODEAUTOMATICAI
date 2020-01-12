@@ -9,7 +9,7 @@ Features:
 * Touch Assisted App Development
 * Machine Learning Assisted Robots to do Testing and Devops.
 
-Langauges Suppported"
+Langauges Suppported:
 C, C++, C#, Objective C, Java, Python, Javascript, System Programming, and Assembly Programming.
 
 Modes of Development:
